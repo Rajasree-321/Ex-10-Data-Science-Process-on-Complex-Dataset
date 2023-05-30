@@ -157,4 +157,7 @@ df.groupby('Fatigue').size().plot(kind='pie', autopct='%.2f')
 
 ![image](https://github.com/Rajasree-321/Ex-10-Data-Science-Process-on-Complex-Dataset/assets/96918911/7c70b579-9149-4e5b-9f4a-9dc7123197b0)
 
+# Result
+ Thus the Data Visualization  and Feature Generation/Feature Selection Techniques for the given dataset had been executed successfully
+
 
